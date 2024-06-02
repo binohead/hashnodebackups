@@ -3,7 +3,7 @@ title: "Random attempt"
 datePublished: Sat Jun 01 2024 11:11:19 GMT+0000 (Coordinated Universal Time)
 cuid: clww0ivsq000209jo33o6fs0i
 slug: random-attempt
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1717325241636/b800b245-4f5b-4fa3-8256-045f78bf4f8a.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1717325445593/f6073c92-dea5-4b60-ba83-77d275da1297.png
 tags: birdsong
 
 ---
